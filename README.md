@@ -1,4 +1,4 @@
-Materials for the paper: Lateral inhibition governs ancestral cellular patterning in fossil and extant liverworts (https://doi.org/10.64898/2025.12.27.696693)
+Materials for the paper *Lateral inhibition governs ancestral cellular patterning in fossil and extant liverworts* (https://doi.org/10.64898/2025.12.27.696693)
 
 - In the folders, you can find the necessary code to analyze the experimental statistics of dark/oil body cells in fossils (M. sharonae) and extant species (T. lacunosa, A. nana, M. polymorpha). Raw and segmented data will soon be available in the Zenodo repository.
 
